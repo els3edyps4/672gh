@@ -1,2 +1,3 @@
 # 672
-New
+New 2.2.7
+With usb 
